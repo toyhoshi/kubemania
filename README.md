@@ -1,9 +1,13 @@
-Logo
-Best-README-Template
+Product Name
 
-An awesome README template to jumpstart your projects!
-Explore the docs »
+    Short blurb about what your product does.
 
-View Demo · Report Bug · Request Feature
+NPM Version Build Status Downloads Stats
 
-Table of Contents
+One to two paragraph statement about your product and what it does.
+
+Installation
+
+OS X & Linux:
+
+npm install my-crazy-module --save
